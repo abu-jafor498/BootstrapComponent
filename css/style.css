@@ -1,0 +1,36 @@
+/* global */
+:root{
+    --chocolate:  #552619;
+    --d_green: #31473A;
+    --beauty: #8AB6F9;
+}
+/* global */
+.b_color {
+    background-color: black;
+   
+}
+.ci_color {
+    color: black;
+}
+
+.cu_prev {
+    left: 89% ;
+    bottom: 5%;
+  }
+.cu_next {
+    right: 2%;
+    bottom: 5%;
+  }
+.cu_prev, .cu_next {
+    top: 85%;
+    width: 5%;
+}
+.text1 {
+    color: var(--chocolate);
+}
+.text2{
+    color: var(--d_green);
+}
+.text3 {
+    color: var(--beauty);
+}
